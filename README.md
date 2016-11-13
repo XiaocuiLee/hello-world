@@ -1,2 +1,3 @@
 # hello-world
-Just another Repository
+Hi Humans
+This is my first project
